@@ -1,10 +1,10 @@
 {{ define "main" }}
-<div class="container">
-  <h1 class="about-text">{{ .Title | markdownify}}</h1>
 
-  <div class="about-subtitle">
-      <h3>This is the about page</h3>
+<h1 class="about-title">{{ .Title | markdownify}}</h1>
+
+<div class="about-container">
+  <div class="about-text">
+    <p>{{ .Content }}</p>
   </div>
-  {{ .Content }}
 </div>
 {{ end }}

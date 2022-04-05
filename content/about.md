@@ -6,17 +6,17 @@ type: "page"
 layout: "about-page"
 ---
 
+##about me
 
- XXX 
-​
-hdyer93@gmail.com
-​
+you can just create html files in content. but i can’t work out how you would create css on them - without having to create another html file in pages, to link through to css. 
+
+Question - if you create html in content, how do you link individual css styling to it.
+
+hectordyer.raella@gmail.com
+
 https://www.instagram.com/hectortdyer/
-​
 
 https://twitter.com/HectorTDyer
 
-​
 
-XXX
 
