@@ -8,6 +8,7 @@
 @import "pages/category.css";
 @import "buttons.css";
 @import "components/cards.css";
+@import "components/card.css";
 
 body {
     background: grey;
