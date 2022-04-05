@@ -1,15 +1,4 @@
 
-.category-card {
-    width: 250px;
-    position: relative;
-    box-shadow: 0 2px 7px #dfdfdf;
-    margin: 50px auto;
-    background: #fafafa;
-    padding-top: 20px;
-    padding-left: 20px;
-    padding-right: 20px;
-}
-
 
 .category-cards {
     display: grid;

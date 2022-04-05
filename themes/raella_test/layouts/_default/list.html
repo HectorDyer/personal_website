@@ -6,10 +6,13 @@
   <div class="category-cards">
     {{ range .Pages }}
           <div class="category-card">
-            <a class="text-body" href="{{ .URL | relURL }}">
-              <!-- {{ if .Draft }}DRAFT: {{end}} -->
-              {{ .Title | markdownify }}
-            </a>
+            <img src="{{ .Params.header_image }}" alt="main work image">
+            <div class="category-card-info">
+              <a class="text-body" href="{{ .URL | relURL }}">
+                <!-- {{ if .Draft }}DRAFT: {{end}} -->
+                  <p>{{ .Title | markdownify }}</p>
+              </a>
+            </div>
           </div>
     {{ end }}
   </div>

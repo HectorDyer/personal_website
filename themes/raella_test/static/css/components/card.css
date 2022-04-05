@@ -1,10 +1,29 @@
 .category-card {
-    width: 250px;
+    /* background-size: cover;
+    background-position: center; */
+    overflow: hidden;
+    height: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 8px;
     position: relative;
-    box-shadow: 0 2px 7px #dfdfdf;
-    margin: 50px auto;
-    background: #fafafa;
-    padding-top: 20px;
-    padding-left: 20px;
-    padding-right: 20px;
+    background-color: white;
+    /* box-shadow: 0 0 15px rgba(0,0,0,0.2); */
 }
+
+.category-card img {
+    height: 100%;
+    width: 120px;
+    object-fit: cover;
+}
+
+.category-card-info a {
+    text-decoration: none;
+    color: black;
+}
+
+.category-card-info p {
+    font-size: 18px;
+}
+
