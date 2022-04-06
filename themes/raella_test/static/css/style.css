@@ -11,9 +11,8 @@
 @import "components/card.css";
 
 body {
-    background: grey;
-    margin: 0;
-    margin-left: 10px;
+    background: snow;
+    margin: 0 auto;
   }
 
 :root {
