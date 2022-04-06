@@ -14,5 +14,9 @@
 }
 
 .about-text p {
-    
+    font-size: 1.2rem;
+    color: #1A1A1A;
+    text-decoration: none;
+    text-align: left;
+    line-height: 1.6;
 }

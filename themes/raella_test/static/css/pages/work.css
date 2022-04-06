@@ -1,9 +1,41 @@
+.work-category-container {
+    padding: 20px;
+    width: 100%;
+    background-color: #C4C4C4;
+}
+
+.category-title {
+    font-size: 1.6rem;
+    color: #1A1A1A;
+    letter-spacing: .05rem;
+    font-weight: 700;
+}
+
+.work-category-container h1 {
+    padding-left: 90px;
+    
+}
+
+.work-text-container {
+    margin: 0 auto;
+    width: 50%;
+    padding-top: 40px;
+}
+
 .work-title {
-    font-size: 20px;
-    color: yellow;
+    font-size: 1.4rem;
+    text-align: center;
+    padding-bottom: 16px;
+    padding-top: 16px;
+    letter-spacing: .15rem;
+    font-weight: 700;
 }
 
 .work-info {
-    text-align: center;
-    font-size: 10px;
+    font-size: 1.2rem;
+    color: #1A1A1A;
+    text-decoration: none;
+    text-align: left;
+    padding-bottom: 50px;
+    line-height: 1.6;
 }
