@@ -3,6 +3,10 @@ languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "raella_test"
 relativeURLS = true
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [module]
     [[module.mounts]]
@@ -29,4 +33,4 @@ relativeURLS = true
     name = "About"
     pre = "pen-tool"
     url = "/about/"
-    weight = 2
+    weight = 3
