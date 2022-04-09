@@ -1,18 +1,23 @@
 .work-category-container {
     padding: 20px;
     width: 100%;
-    background-color: #C4C4C4;
+    background-color: var(--red);
 }
 
 .category-title {
-    font-size: 1.6rem;
+    font-size: 1rem;
     color: #1A1A1A;
     letter-spacing: .05rem;
-    font-weight: 700;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 130px;
+    width: 100%;
+    background-color: var(--red);
 }
 
 .work-category-container h1 {
     padding-left: 90px;
+    font-weight: normal;
 }
 
 .work-text-container {
@@ -22,7 +27,7 @@
 }
 
 .work-title {
-    font-size: 1.4rem;
+    font-size: 1.2rem;
     text-align: center;
     padding-bottom: 16px;
     padding-top: 16px;
@@ -31,7 +36,7 @@
 }
 
 .work-info {
-    font-size: 1.2rem;
+    font-size: 1rem;
     color: #1A1A1A;
     text-decoration: none;
     text-align: left;

@@ -13,13 +13,14 @@
 @import "styles";
 
 body {
-    background: snow;
+    background: #FAFBFC;
     margin: 0 auto;
-  }
+    font-family: Helvetica Neue, Arial, sans-serif;
+}
 
 :root {
   --red: #FF3901;
-  --grey: #C4C4C4;
+  --grey: #C2C2C2;
   --black: #0E0000;
   --offwhite: #FAFBFC;
 }
