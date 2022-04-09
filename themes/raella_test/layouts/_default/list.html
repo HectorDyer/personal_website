@@ -1,14 +1,16 @@
 {{ define "main" }}
-<div class="list-container">
+
+<div class="work-category-container">
   <h1 class="category-title">
     {{ .Type | humanize }}
   </h1>
+</div>
   <div class="category-cards">
     {{ range .Pages }}
           <div class="category-card">
             <img src="{{ .Params.header_image }}" alt="main work image">
             <div class="category-card-info">
-              <a class="text-body" href="{{ .URL | relURL }}">
+              <a class="text-body" href="{{ .Permalink }}">
                 <!-- {{ if .Draft }}DRAFT: {{end}} -->
                   <p>{{ .Title | markdownify }}</p>
               </a>
@@ -16,5 +18,4 @@
           </div>
     {{ end }}
   </div>
-</div>
 {{ end }}

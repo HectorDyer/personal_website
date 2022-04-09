@@ -6,3 +6,9 @@ type: "page"
 layout: "work-page"
 description: "Cloth"
 ---
+
+<div class="work-category-container">
+  <h1 class="category-title">
+    Cloth
+  </h1>
+</div>

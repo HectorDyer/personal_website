@@ -1,3 +1,9 @@
 .container-category {
     display: flex;
 }
+
+.list-container {
+    padding: 20px;
+    width: 100%;
+    background-color: var(--red);
+}

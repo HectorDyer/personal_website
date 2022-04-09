@@ -8,6 +8,12 @@ layout: "work-page"
 description: "Performance"
 ---
 
+<div class="work-category-container">
+  <h1 class="category-title">
+    Performance
+  </h1>
+</div>
+
 Thank You For Your Patience
 ​
 ​
