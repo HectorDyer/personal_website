@@ -9,6 +9,8 @@
 @import "buttons.css";
 @import "components/cards.css";
 @import "components/card.css";
+@import "node_modules/bootstrap/css/bootstrap";
+@import "styles";
 
 body {
     background: snow;
