@@ -9,22 +9,11 @@ description: "Performance"
 ---
 
 <div class="work-category-container">
-  <h1 class="category-title">
-    Performance
-  </h1>
+  <h1 class="work-title">Thank you for your Patience</h1>
 </div>
 
-Thank You For Your Patience
-​
-​
-"No sun to know days, no moon to know months, no sense to know years.
-From what tumbles out of us, old words that had been lying inside us as if they were dead, we build stories."
-​
-Produced by Hackney Showroom, this one-person theatre piece is directed by Sam Curtis Lindsay, with dramaturgical support from Nina Lyndon.
-​
-"A compelling, unsettling work which interweaves different narrative strands to explore the impossible environmental legacies we are creating for future generations." 
-https://www.hackneyshowroom.com/thank-you-for-your-patience/
-​
-"A wealth of dark and complex ideas"
-The Quietus 
+<div class="work-text-container">
+    <p class="work-info">I will create a large-scale installation of woven fabric that explores these narratives. I plan for 5-8 panels, each 3-4 metres long. Each panel will be woven in patterns and techniques of different weaving societies, alongside scenes, text and imagery which tell the narratives. I will use appliqué and embroidery to add detail to these scenes. The panels will also feature pieces the participants make in workshops.
+    The panels will be suspended from broken / discarded pieces of old looms to create a shelter-like structure that visitors can enter into. It will be a cocoon of threads, colour and imagery that can be touched.</p>
+</div>
  
